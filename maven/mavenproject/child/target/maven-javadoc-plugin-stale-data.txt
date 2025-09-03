@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'c:/Users/2438077/OneDrive - Cognizant/Desktop/assignment/maven/mavenproject/child/src/main/java;c:/Users/2438077/OneDrive - Cognizant/Desktop/assignment/maven/mavenproject/child/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'c:/Users/2438077/OneDrive - Cognizant/Desktop/assignment/maven/mavenproject/child/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'child 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'c:/Users/2438077/OneDrive - Cognizant/Desktop/assignment/maven/mavenproject/child/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'child 1.0-SNAPSHOT API'
+com.mavenproject
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\src\main\java = 1756901907003
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\generated-sources\annotations = 1756902346752
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\allclasses-index.html = 1756902347647
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\allpackages-index.html = 1756902347657
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\copy.svg = 1756902347785
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\element-list = 1756902347465
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\help-doc.html = 1756902347751
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\index-all.html = 1756902347717
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\index.html = 1756902347732
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\link.svg = 1756902347791
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\member-search-index.js = 1756902347690
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\module-search-index.js = 1756902347666
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\overview-tree.html = 1756902347619
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\package-search-index.js = 1756902347675
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\script.js = 1756902347777
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\search-page.js = 1756902347806
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\search.html = 1756902347725
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\search.js = 1756902347799
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\stylesheet.css = 1756902347759
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\tag-search-index.js = 1756902347699
+c:\Users\2438077\OneDrive - Cognizant\Desktop\assignment\maven\mavenproject\child\target\apidocs\type-search-index.js = 1756902347682
